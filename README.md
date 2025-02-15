@@ -8,8 +8,7 @@ This repository contains the **Software Development Lifecycle (SDLC) Analysis** 
 ├── 📜 ISE_PROJECT_REPORT1.docx *(Initial Version)*  
 ├── 📜 ISE_PROJECT_REPORT1_Updated.docx *(Revised Version)*  
 ├── 📜 README.md *(This File)*  
-├── 📂 diagrams/ *(SDLC model diagrams)*  
-└── 📜 references.md *(Cited sources and additional references)*  
+└──  📂 diagrams/ *(SDLC model diagrams)*  
 
 ## 🔄 Software Development Lifecycle (SDLC) Models Compared
 1. **Waterfall Model** - Best for well-defined requirements but lacks flexibility.  
